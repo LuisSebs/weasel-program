@@ -1,7 +1,7 @@
 # The Weasel Program
 ## Author: Arrieta Mancera Luis Sebastian (318174116)
 
-<img width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdlOXJwdnBiZmEwYTdoN2ZwdmgzeXYxamV3dnIwZ3l4bXluNWRtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv92q8BHmU0OtFK/giphy.gif"/>
+<img width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFpcjZmeGxkMW56bWlieTU1OHJtcGk4aGo5aWtmMG82ejFsZGRncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pFwRzOLfuGHok/giphy.gif"/>
 
 El programa de la comadreja o la comadreja de Dawkins es una variedad de simulaciones por computadora que ilustra el proceso que impulsa los sistemas evolutivos (variación aleatoria combinada con selección acumulativa no aleatoria).
 
