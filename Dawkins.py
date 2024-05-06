@@ -25,8 +25,13 @@ optimo = list()
 for _ in range(len(objetivo)):
     optimo.append(random.choice(caracteres))
 
+# Iteraciones
+iteraciones = 0;
+
 # Mientras no encontremos al optimo
 while calificacion(optimo) != len(objetivo):
+
+    iteraciones += 1
 
     # Hacemos 100 copias
     for _ in range(100):
@@ -51,3 +56,5 @@ while calificacion(optimo) != len(objetivo):
 
     # Mostramos la evolucion del optimo
     print(''.join(optimo))
+
+print('Cantidad de iteraciones: {}'.format(iteraciones))
